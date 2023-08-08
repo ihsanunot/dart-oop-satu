@@ -8,6 +8,7 @@ in `lib/`, and example unit test in `test/`.
 '''
 Ctrl+Shift+N
 
-![IHSANUNOT (1)](https://github.com/ihsanunot/dart-oop-satu/assets/127992374/da0d0afa-23b2-49fd-b25e-8d6cf7037579)
+![LANDINGKIT-PROMO-SATU](https://github.com/ihsanunot/dart-oop-satu/assets/127992374/ea2d86b4-7cf1-4957-926d-200e510b47cf)
+
 
 '''
